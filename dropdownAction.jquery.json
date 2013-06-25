@@ -1,0 +1,26 @@
+{
+  "name": "dropdownAction",
+  "title": "Dropdownaction",
+  "description": "Add an action link to a dropdown",
+  "version": "0.1.0",
+  "homepage": "https://github.com/phedinkus/dropdownAction",
+  "author": {
+    "name": "Katie Miller",
+    "email": "phedinkus@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:phedinkus/dropdownAction.git"
+  },
+  "bugs": "https://github.com/phedinkus/dropdownAction/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/phedinkus/dropdownAction/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
